@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717268520940",
+    "project_id": "ats-hospital-ba6bd",
+    "storage_bucket": "ats-hospital-ba6bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717268520940:android:8ffe01358f3826fccafac9",
+        "android_client_info": {
+          "package_name": "com.mycompany.atshospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO7b3-DOLlmrmPlO2VR7kPKhkNuZi3On0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
